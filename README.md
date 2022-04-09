@@ -1,4 +1,13 @@
 ### Hi there 👋
+Henry (they/them)
+Research software dev
+Union organiser
+Enjoys:
+- Goblins 😈
+- Gardening 🌱
+- Gaming 🎮
+
+Other work: https://linktr.ee/henryishuman
 
 <!--
 **henryishuman/henryishuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
