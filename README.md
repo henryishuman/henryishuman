@@ -1,7 +1,10 @@
 ### Hi there 👋
 Henry (they/them)
+
 Research software dev
+
 Union organiser
+
 Enjoys:
 - Goblins 😈
 - Gardening 🌱
